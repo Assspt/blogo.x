@@ -1,4 +1,4 @@
-# blogo.x
+## blogo.x
 
 <html lang="fa-IR">
 
@@ -56,7 +56,7 @@
 
 
 
-  <a href="blog.my.html" class="button" style="background-color:#FF5400; color:#FFFFFF;padding:1px 80px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
+  <a href="assspt.github.io/blogo/blog.my.html" class="button" style="background-color:#FF5400; color:#FFFFFF;padding:1px 80px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
 
 </div>
 <br>
@@ -91,7 +91,7 @@
 <br>
 <div style="color:#fff;">
 <center> 
-<a href="dt.html">
+<a href="assspt.github.io/blogo/dt.html">
 
 <p align="ceter">
 <img width="400" height="200" src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg">
@@ -102,7 +102,7 @@
 <h3>خودت وبسایتو طراحی کن</h3>
 <br>
 <h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
-<a href="cv.html">
+<a href="assspt.github.io/blogo/cv.html">
 <p align="ceter">
 <img width="350" height="200" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
@@ -111,7 +111,7 @@
 <h3>سرور رایگان</h3>
 <br>
 <h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
-<a href="lotbm.html">
+<a href="assspt.github.io/blogo/lotbm.html">
 <p align="ceter">
 <img width="400" height="200" src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg">
 <br>
@@ -140,7 +140,7 @@
 <center>
 <h3 style="color:#fff;">گزینه های سایت</h3>
 <br>
- <a href="blog.my.html" style="color:#fff; text-decoration:none;">
+ <a href="assspt.github.io/blogo/blog.my.html" style="color:#fff; text-decoration:none;">
 
 
 
@@ -150,14 +150,14 @@
 </a>
 <br>
 <br>
-<a href="blog.html" style="color:#fff;text-decoration:none;">
+<a href="assspt.github.io/blogo/blog.html" style="color:#fff;text-decoration:none;">
 ثبت نام
 
 </a>
 <br>
 <br>
 
-<a href="help.html" style="color:#fff; text-decoration:none;">
+<a href="assspt.github.io/blogo/help.html" style="color:#fff; text-decoration:none;">
 
 
  
@@ -171,7 +171,7 @@
 
 <br>
 <br>
-<a href="ermas.html" style="color:#fff; text-decoration:none;">
+<a href="assspt.github.io/blogo/ermas.html" style="color:#fff; text-decoration:none;">
 
 مطالب وبسایت
 
@@ -181,7 +181,7 @@
 </a>
 <br>
 <br>
-<a href="don12.html" style="color:#fff; text-decoration:none;">
+<a href="assspt.github.io/blogo/don12.html" style="color:#fff; text-decoration:none;">
 
 دانلود برنامه وبسایت 
 
@@ -190,7 +190,7 @@
 </a>
 <br>
 <br>
-<a href="helpio.html" style="color:#fff; text-decoration:none;">
+<a href="assspt.github.io/blogo/helpio.html" style="color:#fff; text-decoration:none;">
 
  هشدار ها 
 
