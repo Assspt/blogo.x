@@ -199,7 +199,7 @@
 </a>
 <br>
 <br>
-<a href="#" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/" style="color:#fff; text-decoration:none;">
 
 
 حالت روشن
