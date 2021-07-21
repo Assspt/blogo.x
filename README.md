@@ -223,13 +223,24 @@
 <br>
 
 
+
+<h3 style="color:#fff;">نمونه کار ها </h3>
+<br>
 <a href="https://assspt.github.io/blogo/test3.html" style="color:#fff; text-decoration:none;">
 
 
-تست قشنگی سایت شما
+تست  عنوان و نوشته ها
 
 </a>
 
 <br>
 <br>
+<a href="https://assspt.github.io/blogo/test10.html" style="color:#fff; text-decoration:none;">
 
+
+تست  سرچ کننده
+
+</a>
+
+<br>
+<br>
