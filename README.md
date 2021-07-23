@@ -244,3 +244,21 @@
 
 <br>
 <br>
+<a href="https://assspt.github.io/blogo/test30.html" style="color:#fff; text-decoration:none;">
+
+
+مدل ۲ وبسایت
+
+</a>
+
+<br>
+<br>
+<a href="https://assspt.github.io/blogo/test31.html" style="color:#fff; text-decoration:none;">
+
+
+مدل ۳ وبسایت
+
+</a>
+
+<br>
+<br>
