@@ -111,7 +111,7 @@ img {max-width:100%;}
 <br>
 </p>
 
-<h3 style="color:#fff;>سرور رایگان</h3>
+<h3 style="color:#fff;">سرور رایگان</h3>
 <br>
 
 
@@ -120,7 +120,7 @@ img {max-width:100%;}
 <br>
 </p>
 
-<h3 style="color:#fff;>blogo رایگان است</h3>
+<h3 style="color:#fff;">blogo رایگان است</h3>
 <br>
 
 
