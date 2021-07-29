@@ -102,7 +102,7 @@ img {max-width:100%;}
 </p>
 
 
-<h3>خودت وبسایتو طراحی کن</h3>
+<h3 style="color:#fff;">خودت وبسایتو طراحی کن</h3>
 <br>
 
 
@@ -111,7 +111,7 @@ img {max-width:100%;}
 <br>
 </p>
 
-<h3>سرور رایگان</h3>
+<h3 style="color:#fff;>سرور رایگان</h3>
 <br>
 
 
@@ -120,7 +120,7 @@ img {max-width:100%;}
 <br>
 </p>
 
-<h3>blogo رایگان است</h3>
+<h3 style="color:#fff;>blogo رایگان است</h3>
 <br>
 
 
